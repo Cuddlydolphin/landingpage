@@ -1,100 +1,101 @@
 footer, .hero {background-color: #1F2937;
-;
-}
-.one {}
-.hero .main-text {font-size: 48px;
-font-weight: bolder;
-color: #F9FAF8;}
-.subtext {padding: 20px;
-    width: 130px;
-    height: 150px;
-}
-.image {width: auto;
-    border-color: blue;
-height: auto;}
-.maintext {
-    display: flex;
-    justify-content: center;
-    
+    ;
     }
-.header {display: inline-block;
-margin-bottom: 60px;}
-.three, .two, .one{display: inline;
-float: right;}
-.main {font-size: 24px;
-   
-color: #F9FAF8;}
-.one, .two, .three, .secondary {color: #e5e7eb;
-font-size: 18px;}
-button{padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: #3882f6;
-}
-.quote {background-color: #e5e7eb;}
-.info-header {color:#1F2937;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    text-align: center;
-font-size: 36px;
-font-weight: 900;}
-.quote .text {font-size: 36px;
-    padding-right: 300px;
-    padding-left: 300px;
-    padding-top: 50px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-    font-style: italic;
-    font-weight: 100;
-color: #1F2937;}
-.author {padding-top: 0px;
-    text-align: right;
-    
-    margin-top: 0px;
-    padding-bottom: 50px;
-margin-right: 300px;}
-footer {text-align: center;
-padding-top: 20px;
-padding-bottom: 20px;}
-.call-to-action {color: #F9FAF8;
-    padding-left: 100px;
-    display: flex;
-    margin-left: 200px;
-    margin-right: 200px;
-    padding-bottom: 30px;
-    margin-bottom: 50px;
-background-color: #3882f6;}
-.action {font-size: 20px;
-font-weight: 800;
-padding-top: 20px;
-margin-bottom: 0px;}
-.final {border: white;
-    
-    margin-top: 40px;
-    margin-left: 50px;
+    .one {}
+    .hero .main-text {font-size: 48px;
+    font-weight: bolder;
     color: #F9FAF8;}
-img {
-display: inline-block;}
-header {margin-left: 250px;
-    padding-top: 15px;
-margin-right: 290px;}
-.hero-text {width: 49%;
-    padding-right: 10px;}
-.cat {width: 390px;
-    margin-top: 20px;
-    height: 180px;
-}
-.herot {display: flex;
-padding-left: 250px;
-padding-right: 250px;}
-
-.image {width: 100px;
-height: 100px;
-display: block;
-margin-bottom: 10px;
-margin-left: 5px;
-}
-.contact {margin-bottom: 50px;
-margin-top: 10px;
-}
+    .subtext {padding: 20px;
+        width: 130px;
+        height: 150px;
+    }
+    .image {width: auto;
+        border-color: blue;
+    height: auto;}
+    .maintext {
+        display: flex;
+        justify-content: center;
+        
+        }
+    .header {display: inline-block;
+        margin: 5px;
+    margin-bottom: 60px;}
+    .three, .two, .one{display: inline;
+    float: right;}
+    .main {font-size: 24px;
+       
+    color: #F9FAF8;}
+    .one, .two, .three, .secondary {color: #e5e7eb;
+    font-size: 18px;}
+    button{padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background-color: #3882f6;
+    }
+    .quote {background-color: #e5e7eb;}
+    .info-header {color:#1F2937;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+    font-size: 36px;
+    font-weight: 900;}
+    .quote .text {font-size: 36px;
+        padding-right: 300px;
+        padding-left: 300px;
+        padding-top: 50px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        font-style: italic;
+        font-weight: 100;
+    color: #1F2937;}
+    .author {padding-top: 0px;
+        text-align: right;
+        
+        margin-top: 0px;
+        padding-bottom: 50px;
+    margin-right: 300px;}
+    footer {text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;}
+    .call-to-action {color: #F9FAF8;
+        padding-left: 100px;
+        display: flex;
+        margin-left: 200px;
+        margin-right: 200px;
+        padding-bottom: 50px;
+        margin-bottom: 50px;
+    background-color: #3882f6;}
+    .action {font-size: 20px;
+    font-weight: 800;
+    padding-top: 20px;
+    margin-bottom: 0px;}
+    .final {border: white;
+        
+        margin-top: 40px;
+        margin-left: 50px;
+        color: #F9FAF8;}
+    img {
+    display: inline-block;}
+    header {margin-left: 250px;
+        padding-top: 15px;
+    margin-right: 290px;}
+    .hero-text {width: 49%;
+        padding-right: 10px;}
+    .cat {width: 390px;
+        margin-top: 20px;
+        height: 180px;
+    }
+    .herot {display: flex;
+    padding-left: 250px;
+    padding-right: 250px;}
+    
+    .image {width: 100px;
+    height: 100px;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    }
+    .contact {margin-bottom: 50px;
+    margin-top: 10px;
+    }
