@@ -1,7 +1,7 @@
 footer, .hero {background-color: #1F2937;
     ;
     }
-    .one {}
+   
     .hero .main-text {font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;}
@@ -10,7 +10,8 @@ footer, .hero {background-color: #1F2937;
         height: 150px;
     }
     .image {width: auto;
-        border-color: blue;
+        border: 3px solid rgb(0, 255, 98);
+        border-radius: 10px;
     height: auto;}
     .maintext {
         display: flex;
@@ -28,9 +29,10 @@ footer, .hero {background-color: #1F2937;
     .one, .two, .three, .secondary {color: #e5e7eb;
     font-size: 18px;}
     button{padding-left: 20px;
+        border-radius: 10px;
         padding-right: 20px;
-        padding-top: 5px;
-        padding-bottom: 5px;
+        padding-top: 8px;
+        padding-bottom: 8px;
         background-color: #3882f6;
     }
     .quote {background-color: #e5e7eb;}
@@ -71,8 +73,7 @@ footer, .hero {background-color: #1F2937;
     font-weight: 800;
     padding-top: 20px;
     margin-bottom: 0px;}
-    .final {border: white;
-        
+    .final {border: 3px solid white;
         margin-top: 40px;
         margin-left: 50px;
         color: #F9FAF8;}
