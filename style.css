@@ -61,10 +61,11 @@ footer, .hero {background-color: #1F2937;
     .call-to-action {color: #F9FAF8;
         padding-left: 100px;
         display: flex;
+        margin-top: 80px;
         margin-left: 200px;
         margin-right: 200px;
         padding-bottom: 50px;
-        margin-bottom: 50px;
+        margin-bottom: 80px;
     background-color: #3882f6;}
     .action {font-size: 20px;
     font-weight: 800;
@@ -80,10 +81,11 @@ footer, .hero {background-color: #1F2937;
     header {margin-left: 250px;
         padding-top: 15px;
     margin-right: 290px;}
-    .hero-text {width: 49%;
-        padding-right: 10px;}
-    .cat {width: 390px;
+    .hero-text {width: 45%;
+        padding-right: 20px;}
+    .cat {width: 370px;
         margin-top: 20px;
+        padding-left: 20px;
         height: 180px;
     }
     .herot {display: flex;
